@@ -1,0 +1,6 @@
+{
+  "name": "TicTac Universe",
+  "description": "The ultimate full-stack strategic Tic-Tac-Toe web game featuring multiple grid sizes, unique special game modes, online real-time play, competitive ELO leaderboards, custom level editor, and server-side Gemini AI Coach game analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
